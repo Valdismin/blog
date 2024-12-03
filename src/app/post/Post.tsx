@@ -14,7 +14,7 @@ export default function Post () {
                 title</h3>
             <p className={'line-clamp-2 font-matter 2sm:text-base text-sm text-gray-800 mb-1'}>India celebrated a
                 historic victory in the 2024 World Cup, triumphing with exceptional skill and resilience. Led by their
-                captain's inspiring leadership, the team showcased dominance throughout the tournament, captivating fans
+                captain inspiring leadership, the team showcased dominance throughout the tournament, captivating fans
                 worldwide.</p>
             <hr className="shrink-0 bg-n3 border-none w-full h-[1px] mb-4" role="separator"/>
         </div>

@@ -3,7 +3,6 @@ import {Accordion, AccordionItem} from "@/src/app/base-accordion";
 import {navigationItems} from "@/public/navbar-mock";
 
 export const Navbar = () => {
-    navigationItems
     return (
         <div id="navbar"
              className="flex flex-col w-[250px] border-r border-n4 transition-transform bg-white fixed z-50 h-[100%] ">

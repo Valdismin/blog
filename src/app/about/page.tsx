@@ -24,8 +24,8 @@ export default function AboutUs() {
                     <li className="2sm:!text-base !text-sm"><b className="text-gray-900">In-Depth Articles:</b> Our
                         articles
                         are thoroughly researched and thoughtfully written to provide you with the most accurate and
-                        up-to-date information. Whether you're looking for health advice, travel tips, or the latest
-                        in tech trends, we've got you covered.
+                        up-to-date information. Whether you are looking for health advice, travel tips, or the latest
+                        in tech trends, we have got you covered.
                     </li>
                     <li className="2sm:!text-base !text-sm"><b className="text-gray-900">Expert Insights:</b> We
                         collaborate
@@ -88,7 +88,7 @@ export default function AboutUs() {
                 If you have any questions, suggestions, or just want to say hello, feel free to reach out to us
                 at:</p><p className="2sm:text-base text-sm text-gray-800 sm:mb-4 mb-3">Email: <a
                 href="mailto:info@webbycrown.com" className="hover:underline text-gray-900">info@webbycrown.com</a></p>
-                <p className="2sm:text-base text-sm text-gray-800">Let's shine together!</p></div>
+                <p className="2sm:text-base text-sm text-gray-800">Let&apos;s shine together!</p></div>
         </div>
     )
 }
