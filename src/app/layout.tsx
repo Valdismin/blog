@@ -3,7 +3,7 @@ import "./globals.css";
 import {Header} from "@/src/app/header";
 import {Roboto_Flex, Roboto_Mono} from 'next/font/google';
 import clsx from "clsx";
-import {Footer} from "@/src/app/footer";
+import {Navbar} from "@/src/app/navbar";
 
 
 const robotoFlex = Roboto_Flex({
@@ -35,8 +35,8 @@ export default function RootLayout({
             className={clsx('body', robotoFlex.variable, robotoMono.variable)}
         >
         <Header/>
+        <Navbar/>
         {children}
-        <Footer/>
         </body>
         </html>
     );
