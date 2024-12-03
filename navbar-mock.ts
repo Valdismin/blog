@@ -1,7 +1,7 @@
 export const navigationItems = [
     {
         title: 'Technology',
-        iconLink: '/icons/bulb.svg',
+        iconLink: './icons/bulb.svg',
         details: [
             {
                 detailTitle: 'Robotics',
@@ -23,7 +23,7 @@ export const navigationItems = [
     },
     {
         title: 'Movies',
-        iconLink: '/icons/movie.svg',
+        iconLink: './icons/movie.svg',
         details: [
             {
                 detailTitle: 'Hollywood',
@@ -45,7 +45,7 @@ export const navigationItems = [
     },
     {
         title: 'Sports',
-        iconLink: '/icons/sports.svg',
+        iconLink: './icons/sports.svg',
         details: [
             {
                 detailTitle: 'Soccer',
@@ -67,7 +67,7 @@ export const navigationItems = [
     },
     {
         title: 'Politics',
-        iconLink: '/icons/politics.svg',
+        iconLink: './icons/politics.svg',
         details: [
             {
                 detailTitle: 'Election',
