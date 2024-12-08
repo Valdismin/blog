@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "postbuild": "bash -c 'touch out/.nojekyll'",
     "start": "next start",
     "deploy": "gh-pages -d out",
     "lint": "next lint"
