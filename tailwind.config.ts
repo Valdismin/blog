@@ -1,5 +1,5 @@
 const config = {
-  content: ['./src/**/*.{js,ts,jsx,tsx,mdx}', './mock/**/*.{js,ts,jsx,tsx}'],
+  content: ['./src/**/*.{js,ts,jsx,tsx,mdx,html}', './mock/**/*.{js,ts,jsx,tsx}'],
   theme: {
     screens: {
       xs: '240px',
