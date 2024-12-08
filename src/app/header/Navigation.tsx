@@ -14,6 +14,9 @@ export const Navigation = () => {
               <NavButton href={`/categories`}>Categories</NavButton>
             </div>
             <div className="ml-2">
+              <NavButton href={`/contribute`}>Contribute</NavButton>
+            </div>
+            <div className="ml-2">
               <NavButton href={`/about`}>About</NavButton>
             </div>
           </div>
